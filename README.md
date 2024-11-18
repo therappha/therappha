@@ -5,3 +5,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=therappha&radius=16&theme=github-dark&area=true&hide_border=true" height="300" alt="activity graph" />
 <div>
 
+## Skills
+<p align="middle">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,vscode,vim,git,github" />
+  </a>
+</p>
