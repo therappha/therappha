@@ -7,6 +7,6 @@
 ## Skills 
 <p align="middle">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,godot,vscode,vim,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,godot,vscode,python,html,css,javascript,vim,git,github" />
   </a>
 </p>
