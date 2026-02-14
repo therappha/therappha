@@ -4,8 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therappha&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-## Skills 
 <p align="middle">
+## Skills 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,godot,vscode,python,html,css,javascript,vim,git,github" />
   </a>
